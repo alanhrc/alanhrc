@@ -4,6 +4,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alanhrc&label=Profile%20views&color=0e75b6&style=flat" alt="alanhrc" /> </p> -->
 
 - 👨‍🎓 Sou formado em Análise e Desenvolvimento de Sistemas pela Faculdade Anhanguera
+- 👨‍🎓 Cursando MBA em Desenvolvimento Fullstack JS pela faculdade Sirius / Rocketseat
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
