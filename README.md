@@ -12,7 +12,7 @@
 
 - 📫 Meu e-mail para contato **alancamargo50@gmail.com**
 
-- 🎮 Nas horas vagas, gosto de tocar 🎸 e de jogar:
+- 🎮 Nas horas vagas, gosto de tocar 🎸, lutar 🥊 e de jogar:
   ### <a href="https://www.counter-strike.net/">
   <img src="./assets//cs.webp" width="220" height="130" />
   </a>
